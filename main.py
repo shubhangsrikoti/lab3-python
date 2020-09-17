@@ -18,7 +18,7 @@ def print_n(string, num):
 
 def run(): 
   num = input("Enter an int: ")
-  print(f"Sum is {sum_n(int(num))}.")
+  print(f"sum is {sum_n(int(num))}.")
 
   num1 = input("Enter an int: ")
   string = input("Enter a string :")
