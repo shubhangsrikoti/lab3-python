@@ -9,6 +9,7 @@
 def sum_n(num):
   if num >= 1:
     return num + sum_n(num - 1)
+    
   else:
     return 0
   
